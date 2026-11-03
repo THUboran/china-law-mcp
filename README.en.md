@@ -7,6 +7,7 @@
 Free · No signup · No API key · Runs locally
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/THUboran/china-law-mcp.svg?style=social)](https://github.com/THUboran/china-law-mcp/stargazers)
 [![CI](https://github.com/thu-lawyer/china-law-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/thu-lawyer/china-law-mcp/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776ab.svg)](https://python.org)
 [![PyPI](https://img.shields.io/pypi/v/china-law-mcp.svg)](https://pypi.org/project/china-law-mcp/)
