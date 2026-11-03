@@ -19,6 +19,8 @@
 [![Laws](https://img.shields.io/badge/laws-378-green.svg)](#数据)
 [![Articles](https://img.shields.io/badge/articles-23%2C995-brightgreen.svg)](#数据)
 
+[![Star History Chart](https://api.star-history.com/svg?repos=THUboran/china-law-mcp&type=Date)](https://star-history.com/#THUboran/china-law-mcp&Date)
+
 [English](README.en.md) · 中文
 
 </div>

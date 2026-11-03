@@ -16,6 +16,8 @@ Free · No signup · No API key · Runs locally
 [![Laws](https://img.shields.io/badge/laws-378-green.svg)](#data)
 [![Articles](https://img.shields.io/badge/articles-23%2C995-brightgreen.svg)](#data)
 
+[![Star History Chart](https://api.star-history.com/svg?repos=THUboran/china-law-mcp&type=Date)](https://star-history.com/#THUboran/china-law-mcp&Date)
+
 [中文](README.md) · English
 
 </div>
